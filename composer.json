@@ -1,14 +1,14 @@
 {
-    "name": "joelbutcher/facebook-graph-sdk",
+    "name": "chetantechnource/facebook-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk", "php"],
     "type": "library",
-    "homepage": "https://github.com/joelbutcher/facebook-graph-sdk",
+    "homepage": "https://github.com/ChetanTechnource/facebook-php-graph-sdk",
     "license": "MIT",
     "authors": [
         {
-            "name": "Joel Butcher",
-            "homepage": "https://github.com/joelbutcher/facebook-graph-sdk/contributors"
+            "name": "Chetan Patel",
+            "homepage": "https://github.com/ChetanTechnource/facebook-php-graph-sdk/contributors"
         }
     ],
     "config": {
